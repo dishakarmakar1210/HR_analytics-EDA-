@@ -30,7 +30,8 @@ HRAnalytics/
 
 - **Python 3**
 - **Pandas**
-- **Matplotlib / Seaborn** (if used)
+- **Matplotlib**
+- **Seaborn** 
 - **Jupyter Notebook**
 
 ---
