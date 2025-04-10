@@ -51,7 +51,7 @@ HRAnalytics/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/HRAnalytics.git
+   git clone https://github.com/dishakarmakar1210/HRAnalytics.git
    ```
 2. Navigate into the project:
    ```bash
